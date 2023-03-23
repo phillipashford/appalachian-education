@@ -1,0 +1,16 @@
+Census API query education:
+https://api.census.gov/data/2020/acs/acs5/profile?get=NAME,DP02_0059E,DP02_0062E,DP02_0065E,DP02_0066E&for=county
+
+">=25" - Population 25 years and over.
+">=25_hs_grad_equiv" - Population 25 years and over, High school graduate (includes equivalency).
+">=25_bach" - Population 25 years and over, Bachelor's degree.
+"DP02_0066E" - Population 25 years and over, Graduate or professional degree.
+
+
+Census API query employment:
+https://api.census.gov/data/2020/acs/acs5/profile?get=NAME,DP03_0009PE,DP03_0022PE,DP03_0062E,DP03_0063E&for=county
+
+DP03_0009PE - Percent civilian labor force, Unemployed.
+DP03_0022PE - Percent Workers 16 years and over that walked to work.
+DP03_0062E - INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS), Total households, Median household income (dollars).
+DP03_0063E - INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS), Total households, Mean household income (dollars).

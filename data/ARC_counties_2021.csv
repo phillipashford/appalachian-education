@@ -1,0 +1,424 @@
+FIPS,STATE,COUNTY,ARC
+1007,Alabama,Bibb,TRUE
+1009,Alabama,Blount,TRUE
+1015,Alabama,Calhoun,TRUE
+1017,Alabama,Chambers,TRUE
+1019,Alabama,Cherokee,TRUE
+1021,Alabama,Chilton,TRUE
+1027,Alabama,Clay,TRUE
+1029,Alabama,Cleburne,TRUE
+1033,Alabama,Colbert,TRUE
+1037,Alabama,Coosa,TRUE
+1043,Alabama,Cullman,TRUE
+1049,Alabama,De Kalb,TRUE
+1051,Alabama,Elmore,TRUE
+1055,Alabama,Etowah,TRUE
+1057,Alabama,Fayette,TRUE
+1059,Alabama,Franklin,TRUE
+1065,Alabama,Hale,TRUE
+1071,Alabama,Jackson,TRUE
+1073,Alabama,Jefferson,TRUE
+1075,Alabama,Lamar,TRUE
+1077,Alabama,Lauderdale,TRUE
+1079,Alabama,Lawrence,TRUE
+1083,Alabama,Limestone,TRUE
+1087,Alabama,Macon,TRUE
+1089,Alabama,Madison,TRUE
+1093,Alabama,Marion,TRUE
+1095,Alabama,Marshall,TRUE
+1103,Alabama,Morgan,TRUE
+1107,Alabama,Pickens,TRUE
+1111,Alabama,Randolph,TRUE
+1115,Alabama,St. Clair,TRUE
+1117,Alabama,Shelby,TRUE
+1121,Alabama,Talladega,TRUE
+1123,Alabama,Tallapoosa,TRUE
+1125,Alabama,Tuscaloosa,TRUE
+1127,Alabama,Walker,TRUE
+1133,Alabama,Winston,TRUE
+13011,Georgia,Banks,TRUE
+13013,Georgia,Barrow,TRUE
+13015,Georgia,Bartow,TRUE
+13045,Georgia,Carroll,TRUE
+13047,Georgia,Catoosa,TRUE
+13055,Georgia,Chattooga,TRUE
+13057,Georgia,Cherokee,TRUE
+13083,Georgia,Dade,TRUE
+13085,Georgia,Dawson,TRUE
+13097,Georgia,Douglas,TRUE
+13105,Georgia,Elbert,TRUE
+13111,Georgia,Fannin,TRUE
+13115,Georgia,Floyd,TRUE
+13117,Georgia,Forsyth,TRUE
+13119,Georgia,Franklin,TRUE
+13123,Georgia,Gilmer,TRUE
+13129,Georgia,Gordon,TRUE
+13135,Georgia,Gwinnett,TRUE
+13137,Georgia,Habersham,TRUE
+13139,Georgia,Hall,TRUE
+13143,Georgia,Haralson,TRUE
+13147,Georgia,Hart,TRUE
+13149,Georgia,Heard,TRUE
+13157,Georgia,Jackson,TRUE
+13187,Georgia,Lumpkin,TRUE
+13195,Georgia,Madison,TRUE
+13213,Georgia,Murray,TRUE
+13223,Georgia,Paulding,TRUE
+13227,Georgia,Pickens,TRUE
+13233,Georgia,Polk,TRUE
+13241,Georgia,Rabun,TRUE
+13257,Georgia,Stephens,TRUE
+13281,Georgia,Towns,TRUE
+13291,Georgia,Union,TRUE
+13295,Georgia,Walker,TRUE
+13311,Georgia,White,TRUE
+13313,Georgia,Whitfield,TRUE
+21001,Kentucky,Adair,TRUE
+21011,Kentucky,Bath,TRUE
+21013,Kentucky,Bell,TRUE
+21019,Kentucky,Boyd,TRUE
+21025,Kentucky,Breathitt,TRUE
+21043,Kentucky,Carter,TRUE
+21045,Kentucky,Casey,TRUE
+21049,Kentucky,Clark,TRUE
+21051,Kentucky,Clay,TRUE
+21053,Kentucky,Clinton,TRUE
+21057,Kentucky,Cumberland,TRUE
+21061,Kentucky,Edmonson,TRUE
+21063,Kentucky,Elliott,TRUE
+21065,Kentucky,Estill,TRUE
+21069,Kentucky,Fleming,TRUE
+21071,Kentucky,Floyd,TRUE
+21079,Kentucky,Garrard,TRUE
+21087,Kentucky,Green,TRUE
+21089,Kentucky,Greenup,TRUE
+21095,Kentucky,Harlan,TRUE
+21099,Kentucky,Hart,TRUE
+21109,Kentucky,Jackson,TRUE
+21115,Kentucky,Johnson,TRUE
+21119,Kentucky,Knott,TRUE
+21121,Kentucky,Knox,TRUE
+21125,Kentucky,Laurel,TRUE
+21127,Kentucky,Lawrence,TRUE
+21129,Kentucky,Lee,TRUE
+21131,Kentucky,Leslie,TRUE
+21133,Kentucky,Letcher,TRUE
+21135,Kentucky,Lewis,TRUE
+21137,Kentucky,Lincoln,TRUE
+21147,Kentucky,McCreary,TRUE
+21151,Kentucky,Madison,TRUE
+21153,Kentucky,Magoffin,TRUE
+21159,Kentucky,Martin,TRUE
+21165,Kentucky,Menifee,TRUE
+21169,Kentucky,Metcalfe,TRUE
+21171,Kentucky,Monroe,TRUE
+21173,Kentucky,Montgomery,TRUE
+21175,Kentucky,Morgan,TRUE
+21181,Kentucky,Nicholas,TRUE
+21189,Kentucky,Owsley,TRUE
+21193,Kentucky,Perry,TRUE
+21195,Kentucky,Pike,TRUE
+21197,Kentucky,Powell,TRUE
+21199,Kentucky,Pulaski,TRUE
+21201,Kentucky,Robertson,TRUE
+21203,Kentucky,Rockcastle,TRUE
+21205,Kentucky,Rowan,TRUE
+21207,Kentucky,Russell,TRUE
+21231,Kentucky,Wayne,TRUE
+21235,Kentucky,Whitley,TRUE
+21237,Kentucky,Wolfe,TRUE
+24001,Maryland,Allegany,TRUE
+24023,Maryland,Garrett,TRUE
+24043,Maryland,Washington,TRUE
+28003,Mississippi,Alcorn,TRUE
+28009,Mississippi,Benton,TRUE
+28013,Mississippi,Calhoun,TRUE
+28017,Mississippi,Chickasaw,TRUE
+28019,Mississippi,Choctaw,TRUE
+28025,Mississippi,Clay,TRUE
+28057,Mississippi,Itawamba,TRUE
+28069,Mississippi,Kemper,TRUE
+28081,Mississippi,Lee,TRUE
+28087,Mississippi,Lowndes,TRUE
+28093,Mississippi,Marshall,TRUE
+28095,Mississippi,Monroe,TRUE
+28097,Mississippi,Montgomery,TRUE
+28103,Mississippi,Noxubee,TRUE
+28105,Mississippi,Oktibbeha,TRUE
+28107,Mississippi,Panola,TRUE
+28115,Mississippi,Pontotoc,TRUE
+28117,Mississippi,Prentiss,TRUE
+28139,Mississippi,Tippah,TRUE
+28141,Mississippi,Tishomingo,TRUE
+28145,Mississippi,Union,TRUE
+28155,Mississippi,Webster,TRUE
+28159,Mississippi,Winston,TRUE
+28161,Mississippi,Yalobusha,TRUE
+36003,New York,Allegany,TRUE
+36007,New York,Broome,TRUE
+36009,New York,Cattaraugus,TRUE
+36013,New York,Chautauqua,TRUE
+36015,New York,Chemung,TRUE
+36017,New York,Chenango,TRUE
+36023,New York,Cortland,TRUE
+36025,New York,Delaware,TRUE
+36077,New York,Otsego,TRUE
+36095,New York,Schoharie,TRUE
+36097,New York,Schuyler,TRUE
+36101,New York,Steuben,TRUE
+36107,New York,Tioga,TRUE
+36109,New York,Tompkins,TRUE
+37003,North Carolina,Alexander,TRUE
+37005,North Carolina,Alleghany,TRUE
+37009,North Carolina,Ashe,TRUE
+37011,North Carolina,Avery,TRUE
+37021,North Carolina,Buncombe,TRUE
+37023,North Carolina,Burke,TRUE
+37027,North Carolina,Caldwell,TRUE
+37035,North Carolina,Catawba,TRUE
+37039,North Carolina,Cherokee,TRUE
+37043,North Carolina,Clay,TRUE
+37045,North Carolina,Cleveland,TRUE
+37059,North Carolina,Davie,TRUE
+37067,North Carolina,Forsyth,TRUE
+37075,North Carolina,Graham,TRUE
+37087,North Carolina,Haywood,TRUE
+37089,North Carolina,Henderson,TRUE
+37099,North Carolina,Jackson,TRUE
+37111,North Carolina,McDowell,TRUE
+37113,North Carolina,Macon,TRUE
+37115,North Carolina,Madison,TRUE
+37121,North Carolina,Mitchell,TRUE
+37149,North Carolina,Polk,TRUE
+37161,North Carolina,Rutherford,TRUE
+37169,North Carolina,Stokes,TRUE
+37171,North Carolina,Surry,TRUE
+37173,North Carolina,Swain,TRUE
+37175,North Carolina,Transylvania,TRUE
+37189,North Carolina,Watauga,TRUE
+37193,North Carolina,Wilkes,TRUE
+37197,North Carolina,Yadkin,TRUE
+37199,North Carolina,Yancey,TRUE
+39001,Ohio,Adams,TRUE
+39007,Ohio,Ashtabula,TRUE
+39009,Ohio,Athens,TRUE
+39013,Ohio,Belmont,TRUE
+39015,Ohio,Brown,TRUE
+39019,Ohio,Carroll,TRUE
+39025,Ohio,Clermont,TRUE
+39029,Ohio,Columbiana,TRUE
+39031,Ohio,Coshocton,TRUE
+39053,Ohio,Gallia,TRUE
+39059,Ohio,Guernsey,TRUE
+39067,Ohio,Harrison,TRUE
+39071,Ohio,Highland,TRUE
+39073,Ohio,Hocking,TRUE
+39075,Ohio,Holmes,TRUE
+39079,Ohio,Jackson,TRUE
+39081,Ohio,Jefferson,TRUE
+39087,Ohio,Lawrence,TRUE
+39099,Ohio,Mahoning,TRUE
+39105,Ohio,Meigs,TRUE
+39111,Ohio,Monroe,TRUE
+39115,Ohio,Morgan,TRUE
+39119,Ohio,Muskingum,TRUE
+39121,Ohio,Noble,TRUE
+39127,Ohio,Perry,TRUE
+39131,Ohio,Pike,TRUE
+39141,Ohio,Ross,TRUE
+39145,Ohio,Scioto,TRUE
+39155,Ohio,Trumbull,TRUE
+39157,Ohio,Tuscarawas,TRUE
+39163,Ohio,Vinton,TRUE
+39167,Ohio,Washington,TRUE
+42003,Pennsylvania,Allegheny,TRUE
+42005,Pennsylvania,Armstrong,TRUE
+42007,Pennsylvania,Beaver,TRUE
+42009,Pennsylvania,Bedford,TRUE
+42013,Pennsylvania,Blair,TRUE
+42015,Pennsylvania,Bradford,TRUE
+42019,Pennsylvania,Butler,TRUE
+42021,Pennsylvania,Cambria,TRUE
+42023,Pennsylvania,Cameron,TRUE
+42025,Pennsylvania,Carbon,TRUE
+42027,Pennsylvania,Centre,TRUE
+42031,Pennsylvania,Clarion,TRUE
+42033,Pennsylvania,Clearfield,TRUE
+42035,Pennsylvania,Clinton,TRUE
+42037,Pennsylvania,Columbia,TRUE
+42039,Pennsylvania,Crawford,TRUE
+42047,Pennsylvania,Elk,TRUE
+42049,Pennsylvania,Erie,TRUE
+42051,Pennsylvania,Fayette,TRUE
+42053,Pennsylvania,Forest,TRUE
+42057,Pennsylvania,Fulton,TRUE
+42059,Pennsylvania,Greene,TRUE
+42061,Pennsylvania,Huntingdon,TRUE
+42063,Pennsylvania,Indiana,TRUE
+42065,Pennsylvania,Jefferson,TRUE
+42067,Pennsylvania,Juniata,TRUE
+42069,Pennsylvania,Lackawanna,TRUE
+42073,Pennsylvania,Lawrence,TRUE
+42079,Pennsylvania,Luzerne,TRUE
+42081,Pennsylvania,Lycoming,TRUE
+42083,Pennsylvania,McKean,TRUE
+42085,Pennsylvania,Mercer,TRUE
+42087,Pennsylvania,Mifflin,TRUE
+42089,Pennsylvania,Monroe,TRUE
+42093,Pennsylvania,Montour,TRUE
+42097,Pennsylvania,Northumberland,TRUE
+42099,Pennsylvania,Perry,TRUE
+42103,Pennsylvania,Pike,TRUE
+42105,Pennsylvania,Potter,TRUE
+42107,Pennsylvania,Schuylkill,TRUE
+42109,Pennsylvania,Snyder,TRUE
+42111,Pennsylvania,Somerset,TRUE
+42113,Pennsylvania,Sullivan,TRUE
+42115,Pennsylvania,Susquehanna,TRUE
+42117,Pennsylvania,Tioga,TRUE
+42119,Pennsylvania,Union,TRUE
+42121,Pennsylvania,Venango,TRUE
+42123,Pennsylvania,Warren,TRUE
+42125,Pennsylvania,Washington,TRUE
+42127,Pennsylvania,Wayne,TRUE
+42129,Pennsylvania,Westmoreland,TRUE
+42131,Pennsylvania,Wyoming,TRUE
+45007,South Carolina,Anderson,TRUE
+45021,South Carolina,Cherokee,TRUE
+45045,South Carolina,Greenville,TRUE
+45073,South Carolina,Oconee,TRUE
+45077,South Carolina,Pickens,TRUE
+45083,South Carolina,Spartanburg,TRUE
+45087,South Carolina,Union,TRUE
+47001,Tennessee,Anderson,TRUE
+47007,Tennessee,Bledsoe,TRUE
+47009,Tennessee,Blount,TRUE
+47011,Tennessee,Bradley,TRUE
+47013,Tennessee,Campbell,TRUE
+47015,Tennessee,Cannon,TRUE
+47019,Tennessee,Carter,TRUE
+47025,Tennessee,Claiborne,TRUE
+47027,Tennessee,Clay,TRUE
+47029,Tennessee,Cocke,TRUE
+47031,Tennessee,Coffee,TRUE
+47035,Tennessee,Cumberland,TRUE
+47041,Tennessee,De Kalb,TRUE
+47049,Tennessee,Fentress,TRUE
+47051,Tennessee,Franklin,TRUE
+47057,Tennessee,Grainger,TRUE
+47059,Tennessee,Greene,TRUE
+47061,Tennessee,Grundy,TRUE
+47063,Tennessee,Hamblen,TRUE
+47065,Tennessee,Hamilton,TRUE
+47067,Tennessee,Hancock,TRUE
+47073,Tennessee,Hawkins,TRUE
+47087,Tennessee,Jackson,TRUE
+47089,Tennessee,Jefferson,TRUE
+47091,Tennessee,Johnson,TRUE
+47093,Tennessee,Knox,TRUE
+47099,Tennessee,Lawrence,TRUE
+47101,Tennessee,Lewis,TRUE
+47105,Tennessee,Loudon,TRUE
+47107,Tennessee,McMinn,TRUE
+47111,Tennessee,Macon,TRUE
+47115,Tennessee,Marion,TRUE
+47121,Tennessee,Meigs,TRUE
+47123,Tennessee,Monroe,TRUE
+47129,Tennessee,Morgan,TRUE
+47133,Tennessee,Overton,TRUE
+47137,Tennessee,Pickett,TRUE
+47139,Tennessee,Polk,TRUE
+47141,Tennessee,Putnam,TRUE
+47143,Tennessee,Rhea,TRUE
+47145,Tennessee,Roane,TRUE
+47151,Tennessee,Scott,TRUE
+47153,Tennessee,Sequatchie,TRUE
+47155,Tennessee,Sevier,TRUE
+47159,Tennessee,Smith,TRUE
+47163,Tennessee,Sullivan,TRUE
+47171,Tennessee,Unicoi,TRUE
+47173,Tennessee,Union,TRUE
+47175,Tennessee,Van Buren,TRUE
+47177,Tennessee,Warren,TRUE
+47179,Tennessee,Washington,TRUE
+47185,Tennessee,White,TRUE
+51005,Virginia,Alleghany + Covington city,TRUE
+51017,Virginia,Bath,TRUE
+51021,Virginia,Bland,TRUE
+51023,Virginia,Botetourt,TRUE
+51027,Virginia,Buchanan,TRUE
+51035,Virginia,Carroll + Galax city,TRUE
+51045,Virginia,Craig,TRUE
+51051,Virginia,Dickenson,TRUE
+51063,Virginia,Floyd,TRUE
+51071,Virginia,Giles,TRUE
+51077,Virginia,Grayson,TRUE
+51089,Virginia,Henry + Martinsville city,TRUE
+51091,Virginia,Highland,TRUE
+51105,Virginia,Lee,TRUE
+51121,Virginia,Montgomery + Radford city,TRUE
+51141,Virginia,Patrick,TRUE
+51155,Virginia,Pulaski,TRUE
+51163,Virginia,Rockbridge + Buena Vista city + Lexington city,TRUE
+51167,Virginia,Russell,TRUE
+51169,Virginia,Scott,TRUE
+51173,Virginia,Smyth,TRUE
+51185,Virginia,Tazewell,TRUE
+51191,Virginia,Washington + Bristol city,TRUE
+51195,Virginia,Wise + Norton city,TRUE
+51197,Virginia,Wythe,TRUE
+54001,West Virginia,Barbour,TRUE
+54003,West Virginia,Berkeley,TRUE
+54005,West Virginia,Boone,TRUE
+54007,West Virginia,Braxton,TRUE
+54009,West Virginia,Brooke,TRUE
+54011,West Virginia,Cabell,TRUE
+54013,West Virginia,Calhoun,TRUE
+54015,West Virginia,Clay,TRUE
+54017,West Virginia,Doddridge,TRUE
+54019,West Virginia,Fayette,TRUE
+54021,West Virginia,Gilmer,TRUE
+54023,West Virginia,Grant,TRUE
+54025,West Virginia,Greenbrier,TRUE
+54027,West Virginia,Hampshire,TRUE
+54029,West Virginia,Hancock,TRUE
+54031,West Virginia,Hardy,TRUE
+54033,West Virginia,Harrison,TRUE
+54035,West Virginia,Jackson,TRUE
+54037,West Virginia,Jefferson,TRUE
+54039,West Virginia,Kanawha,TRUE
+54041,West Virginia,Lewis,TRUE
+54043,West Virginia,Lincoln,TRUE
+54045,West Virginia,Logan,TRUE
+54047,West Virginia,McDowell,TRUE
+54049,West Virginia,Marion,TRUE
+54051,West Virginia,Marshall,TRUE
+54053,West Virginia,Mason,TRUE
+54055,West Virginia,Mercer,TRUE
+54057,West Virginia,Mineral,TRUE
+54059,West Virginia,Mingo,TRUE
+54061,West Virginia,Monongalia,TRUE
+54063,West Virginia,Monroe,TRUE
+54065,West Virginia,Morgan,TRUE
+54067,West Virginia,Nicholas,TRUE
+54069,West Virginia,Ohio,TRUE
+54071,West Virginia,Pendleton,TRUE
+54073,West Virginia,Pleasants,TRUE
+54075,West Virginia,Pocahontas,TRUE
+54077,West Virginia,Preston,TRUE
+54079,West Virginia,Putnam,TRUE
+54081,West Virginia,Raleigh,TRUE
+54083,West Virginia,Randolph,TRUE
+54085,West Virginia,Ritchie,TRUE
+54087,West Virginia,Roane,TRUE
+54089,West Virginia,Summers,TRUE
+54091,West Virginia,Taylor,TRUE
+54093,West Virginia,Tucker,TRUE
+54095,West Virginia,Tyler,TRUE
+54097,West Virginia,Upshur,TRUE
+54099,West Virginia,Wayne,TRUE
+54101,West Virginia,Webster,TRUE
+54103,West Virginia,Wetzel,TRUE
+54105,West Virginia,Wirt,TRUE
+54107,West Virginia,Wood,TRUE
+54109,West Virginia,Wyoming,TRUE
